@@ -1,2 +1,3 @@
 #!/bin/bash
-cat words.txt | tr ' ' '\n' | sort | uniq -u
+echo "apple banana cherry banana apple" | tr ' ' '\n' | sort | uniq -u
+
