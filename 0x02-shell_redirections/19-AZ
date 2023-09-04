@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Afeniferec" | tr 'A' 'Z' | tr 'c' 'e'
